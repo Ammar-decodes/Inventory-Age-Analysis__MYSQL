@@ -23,4 +23,4 @@ Classify current inventory into 4 age groups:
 
 ### Expected Output : - <a href="https://github.com/Ammar-decodes/Inventory-Age-Analysis__MYSQL/blob/main/Expected%20Output%20Screenshot.png">ClickHereforPicture</a>
 
-
+### Query Output : - <a href="">ClickHereforPicture</a>
