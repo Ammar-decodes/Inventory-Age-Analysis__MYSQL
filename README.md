@@ -1,7 +1,7 @@
-## The Problem
+### The Problem
 We need to track how long items stay in a warehouse before being sold/shipped.
 
-## Rules
+### Rules
 First-In-First-Out (FIFO): Oldest inventory gets sold first.
 
 Inventory changes over time:
@@ -10,7 +10,7 @@ Inbound: New stock arrives.
 
 Outbound: Stock leaves (oldest goes first).
 
-## Goal
+### Goal
 Classify current inventory into 4 age groups:
 
 0-90 days old
@@ -21,4 +21,6 @@ Classify current inventory into 4 age groups:
 
 271-365 days old
 
-## Expected Output : <a href="https://github.com/Ammar-decodes/FNP_sales_dashboard_EXCEL/blob/main/FNP%20sales%20dashboard.xlsx">Fearns&Petals</a>
+### Expected Output : - <a href="https://github.com/Ammar-decodes/Inventory-Age-Analysis__MYSQL/blob/main/Expected%20Output%20Screenshot.png">ClickHereforPicture</a>
+
+
